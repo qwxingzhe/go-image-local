@@ -1,0 +1,13 @@
+package go_object_storage
+
+type KodoConfig struct {
+	AccessKey string `json:"AccessKey"`
+	SecretKey string `json:"SecretKey"`
+	Bucket    string `json:"Bucket"`
+}
+
+var kodoConfig = KodoConfig{
+	AccessKey: "YKIFDU63**************************",
+	SecretKey: "s0Tn_tRt**************************",
+	Bucket:    "test",
+}

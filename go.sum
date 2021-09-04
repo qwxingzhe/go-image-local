@@ -1,2 +1,13 @@
 github.com/google/uuid v1.3.0 h1:t6JiXgmwXMjEs8VusXIJk2BXHsn+wx8BZdTaoZ5fu7I=
 github.com/google/uuid v1.3.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/qiniu/go-sdk/v7 v7.9.8 h1:QE3Nj+bj+ZHGWed2L+nuOKGhtJgXqdMbSaC69YZ05L8=
+github.com/qiniu/go-sdk/v7 v7.9.8/go.mod h1:Eeqk1/Km3f1MuLUUkg2JCSg/dVkydKbBvEdJJqFgn9g=
+github.com/qwxingzhe/go-file-type v0.0.0-20210901161907-81b762ad9e37 h1:zX66Fks9+iLqGWNHDfV+je6bEgKyISJkbVuDyClWIm0=
+github.com/qwxingzhe/go-file-type v0.0.0-20210901161907-81b762ad9e37/go.mod h1:Bpduqz+NKm2imxr5InLA61iSgVvXwIbB3WIk0+gYXHY=
+github.com/qwxingzhe/go-object-storage v0.0.0-20210903162847-9abe0c8044b5 h1:b8xTPfTJwhwJGuWthU1mMJct7guJPwti+5g+BjzaBdY=
+github.com/qwxingzhe/go-object-storage v0.0.0-20210903162847-9abe0c8044b5/go.mod h1:mqWpWZY8ED0iloC4gaukrYUWp/2POoMRrEnRR14ZuFo=
+github.com/qwxingzhe/go-object-storage v0.0.0-20210904010837-09858abb0ea2 h1:Ol8x6TofDBPW5Fe8TyJ357Gx+CpTtWFyCCDHZIDKrn8=
+github.com/qwxingzhe/go-object-storage v0.0.0-20210904010837-09858abb0ea2/go.mod h1:mqWpWZY8ED0iloC4gaukrYUWp/2POoMRrEnRR14ZuFo=
+golang.org/x/sync v0.0.0-20201207232520-09787c993a3a/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c h1:5KslGYwFpkhGh+Q16bwMP3cOontH8FOep7tGV86Y7SQ=
+golang.org/x/sync v0.0.0-20210220032951-036812b2e83c/go.mod h1:RxMgew5VJxzue5/jJTE5uejpjVlOe/izrB70Jof72aM=
